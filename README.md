@@ -1,1 +1,1 @@
-# uygulama_seanslar-
+# uygulama_seanslari
